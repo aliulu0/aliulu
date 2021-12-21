@@ -10,13 +10,15 @@ You may find some projects on my repos, feel free to contribute or using them. K
 
 🚀 Programming Languages: Java,Kotlin,C#
 
-🚀 Mobile Development:Kotlin,Java,Flutter
+📱 Mobile Development:Kotlin,Java,Flutter
 
-🚀 Back-End Development: Java,C#,MySQL,PostgreSQL
+💻 Back-End Development: Java,C#,MySQL,PostgreSQL
 
 
-## 📫 How to reach me: <br>
+## 📧 How to reach me: <br>
 
-<span style="margin-left:50em;" > -> LinkedIn:</span> <a href='https://www.linkedin.com/in/ali-ulu/'>Ali Ulu</a>
+<span style="margin-left:50em;" > 👉 LinkedIn:</span> <a href='https://www.linkedin.com/in/ali-ulu/'>Ali Ulu</a>
 
-<span style="margin-left:50em;" > -> Twitter:</span> <a href='https://twitter.com/alii_uluu'>@alii_uluu</a>
+<span style="margin-left:50em;" > 👉 Twitter:</span> <a href='https://twitter.com/alii_uluu'>@alii_uluu</a>
+
+<span style="margin-left:50em;" > 📫 E-mail:</span> <a href=''>ali.ulu43@gmail.com</a>
