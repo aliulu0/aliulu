@@ -6,13 +6,13 @@ I am a Electric Technician (Graduate) student at Kütahya Dumlupınar University
 You may find some projects on my repos, feel free to contribute or using them. Knowledge is power and sharing knowledge is the best thing for me.
 
 
--> Languages: English, Turkish(native)
+🚀 Languages: English, Turkish(native)
 
--> Programming Languages: Java,Kotlin,C#
+🚀 Programming Languages: Java,Kotlin,C#
 
--> Mobile Development:Kotlin,Java,Flutter
+🚀 Mobile Development:Kotlin,Java,Flutter
 
--> Back-End Development: Java,C#,MySQL,PostgreSQL
+🚀 Back-End Development: Java,C#,MySQL,PostgreSQL
 
 
 ## 📫 How to reach me: <br>
