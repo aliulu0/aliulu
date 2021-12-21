@@ -18,10 +18,10 @@ You may find some projects on my repos, feel free to contribute or using them. K
 
 ## 📧 How to reach me: <br>
 
+<span style="margin-left:50em;" > 📫 E-mail:</span> <a href=''>ali.ulu43@gmail.com</a>
+
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][twitter]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
-
-<span style="margin-left:50em;" > 📫 E-mail:</span> <a href=''>ali.ulu43@gmail.com</a>
 
 <details>
 <summary>:bulb:  Most Used Languages</summary>
