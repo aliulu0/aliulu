@@ -22,7 +22,8 @@ You may find some projects on my repos, feel free to contribute or using them. K
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][twitter]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
-
+[twitter]: https://twitter.com/alii_uluu
+[linkedin]: https://www.linkedin.com/in/ali-ulu/
 
 
 <details>
@@ -30,5 +31,4 @@ You may find some projects on my repos, feel free to contribute or using them. K
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliulu0&layout=compact" >
 </details>
 
-[twitter]: https://twitter.com/alii_uluu
-[linkedin]: https://www.linkedin.com/in/ali-ulu/
+
