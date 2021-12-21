@@ -1,4 +1,5 @@
-Hi there!
+
+## Hi there I'm Ali Ulu!
 
 I'm Ali and a self-tought mobil and back-end developer, interested in reading new movies and series, playing football and video game, My dream is to see new places and create new apps.
 I am a Electric Technician (Graduate) student at Kütahya Dumlupınar University.
