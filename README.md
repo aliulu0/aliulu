@@ -20,6 +20,6 @@ You may find some projects on my repos, feel free to contribute or using them. K
 
 <span style="margin-left:50em;" > 👉 LinkedIn:</span> <a href='https://www.linkedin.com/in/ali-ulu/'>Ali Ulu</a>
 
-<span style="margin-left:50em;" > 👉 Twitter:</span> <a href='https://twitter.com/alii_uluu'>@alii_uluu</a>
+<span style="margin-left:50em;" >:twitter: Twitter:</span> <a href='https://twitter.com/alii_uluu'>@alii_uluu</a>
 
 <span style="margin-left:50em;" > 📫 E-mail:</span> <a href=''>ali.ulu43@gmail.com</a>
