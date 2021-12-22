@@ -7,10 +7,10 @@ I am a Electric Technician (Graduate) student at Kütahya Dumlupınar University
 You may find some projects on my repos, feel free to contribute or using them. Knowledge is power and sharing knowledge is the best thing for me.
 
 
-### 🚀 Languages: English, Turkish(native)
+#### 🚀 Languages: English, Turkish(native)
 <br />
 
-### 🚀 Programming Languages: 
+#### 🚀 Programming Languages: 
 
  <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="25" height="25" /> 
  <img align="left"  src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" width="25" height="25" /> 
@@ -19,7 +19,7 @@ You may find some projects on my repos, feel free to contribute or using them. K
  
  <br />
  
-### 📱 Mobile Development:
+#### 📱 Mobile Development:
 
  <img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="25" height="25" />
  <img align="left"  src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" width="25" height="25" />
@@ -28,7 +28,7 @@ You may find some projects on my repos, feel free to contribute or using them. K
 
  <br />
  
-### 💻 Back-End Development:  
+#### 💻 Back-End Development:  
 
 
  <img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="25" height="25" /> 
