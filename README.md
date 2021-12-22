@@ -8,38 +8,39 @@ You may find some projects on my repos, feel free to contribute or using them. K
 
 
 #### 🚀 Languages: 
-##### 🇬🇧 
-##### 🇹🇷(native)
+
+<img align="left" src="https://tr.wikipedia.org/wiki/Birle%C5%9Fik_Krall%C4%B1k#/media/Dosya:Flag_of_the_United_Kingdom.svg" width="25" height="25" /> 
+<img align="left"  src="https://tr.wikipedia.org/wiki/T%C3%BCrkiye#/media/Dosya:Flag_of_Turkey.svg" width="25" height="25" />   (native)
 <br />
 
 #### 🚀 Programming Languages: 
 
- <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="25" height="25" /> 
- <img align="left"  src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" width="25" height="25" /> 
- <img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="25" height="25" /> 
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="25" height="25" /> 
+<img align="left"  src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" width="25" height="25" /> 
+<img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="25" height="25" /> 
  
  
- <br />
+<br />
  
 #### 📱 Mobile Development:
 
- <img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="25" height="25" />
- <img align="left"  src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" width="25" height="25" />
- <img align="left"  src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="25" height="25" />
+<img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="25" height="25" />
+<img align="left"  src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" width="25" height="25" />
+<img align="left"  src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="25" height="25" />
 
 
- <br />
+<br />
  
 #### 💻 Back-End Development:  
 
 
- <img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="25" height="25" /> 
- <img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="25" height="25" />
- <img align="left"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="25" height="25" />
- <img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="25" height="25" />
+<img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="25" height="25" /> 
+<img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="25" height="25" />
+<img align="left"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="25" height="25" />
+<img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="25" height="25" />
 
 
- <br />
+<br />
  
  
 ## 📧 How to reach me: 
