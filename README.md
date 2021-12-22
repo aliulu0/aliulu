@@ -8,9 +8,8 @@ You may find some projects on my repos, feel free to contribute or using them. K
 
 
 #### 🚀 Languages: 
-:gb:
-:tr:
-<img align="left" src="" width="25" height="25" />   (native)
+<img align="left" src="https://www.webfx.com/wp-content/themes/fx/assets/img/tools/emoji-cheat-sheet/graphics/emojis/gb.png" width="25" height="25" />
+<img align="left" src="https://www.webfx.com/wp-content/themes/fx/assets/img/tools/emoji-cheat-sheet/graphics/emojis/tr.png" width="25" height="25" />   (native)
 <br />
 
 #### 🚀 Programming Languages: 
