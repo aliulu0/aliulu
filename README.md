@@ -10,7 +10,6 @@ You may find some projects on my repos, feel free to contribute or using them. K
 #### 🚀 Languages: 
 <img align="left" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-united-kingdom_1f1ec-1f1e7.png" width="30" height="30" /> </p>
 <img align="left" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-turkey_1f1f9-1f1f7.png" width="30" height="30" /> <b>(native)</b>
-
 <br />
 
 #### 🚀 Programming Languages: 
@@ -39,9 +38,7 @@ You may find some projects on my repos, feel free to contribute or using them. K
 <img align="left"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="25" height="25" />
 <img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="25" height="25" />
 
-
 <br />
- 
  
 ## 📧 How to reach me: 
 
