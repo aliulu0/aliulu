@@ -38,7 +38,7 @@ You may find some projects on my repos, feel free to contribute or using them. K
 [linkedin]: https://www.linkedin.com/in/ali-ulu/
 
 
-<br />
+<br /><br />
 
 <details>
 <summary>:bulb:  Most Used Languages</summary>
