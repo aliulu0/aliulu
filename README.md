@@ -10,32 +10,25 @@ You may find some projects on my repos, feel free to contribute or using them. K
 #### 🚀 Languages: 
 <img align="left" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-united-kingdom_1f1ec-1f1e7.png" width="50" height="50" /> </p>
 <img align="left" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-turkey_1f1f9-1f1f7.png" width="50" height="50" /> <b>(native)</b>
+
 <br />
 
 #### 🚀 Programming Languages: 
 
 [![My Skills](https://skillicons.dev/icons?i=js,kotlin,java,cs)](https://skillicons.dev)
-
 <br />
- 
 #### 📱 Mobile Development:
 
 [![My Skills](https://skillicons.dev/icons?i=react,kotlin,java)](https://skillicons.dev)
-
 <br />
-
 #### 💻 Front-End Development:  
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux)](https://skillicons.dev)
-
 <br />
- 
 #### <img src="https://raw.githubusercontent.com/github/explore/13295c57999765ac9ffa3281942a72ab08b79de2/topics/database/database.png" width="25" height="25"/> Databases:  
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb)](https://skillicons.dev)
-
 <br />
- 
 ## 📧 How to reach me: 
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][twitter]
