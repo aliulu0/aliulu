@@ -30,7 +30,7 @@ You may find some projects on my repos, feel free to contribute or using them. K
 
 <br />
  
-#### <img src="https://raw.githubusercontent.com/github/explore/13295c57999765ac9ffa3281942a72ab08b79de2/topics/database/database.png" width="25" height="25"/> Databases:  
+#### <img src="https://raw.githubusercontent.com/github/explore/13295c57999765ac9ffa3281942a72ab08b79de2/topics/database/database.png" width="25" height="25" justifyContent="center"/> Databases:  
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb)](https://skillicons.dev)
 
