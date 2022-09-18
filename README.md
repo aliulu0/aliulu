@@ -31,8 +31,8 @@ You may find some projects on my repos, feel free to contribute or using them. K
 <br />
 ## 📧 How to reach me: 
 
-[<img  width="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/LinkedIn." align="left" />][twitter]
-[<img  width="22" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Twitter.svg" align="left" />][linkedin]
+[<img  width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/LinkedIn.svg" align="left" />][twitter]
+[<img  width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Twitter.svg" align="left" />][linkedin]
 
 [twitter]: https://twitter.com/alii_uluu
 [linkedin]: https://www.linkedin.com/in/ali-ulu/
