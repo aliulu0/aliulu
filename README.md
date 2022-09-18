@@ -16,13 +16,11 @@ You may find some projects on my repos, feel free to contribute or using them. K
 
 [![My Skills](https://skillicons.dev/icons?i=js,kotlin,java,cs)](https://skillicons.dev)
 
- 
 <br />
  
 #### 📱 Mobile Development:
 
 [![My Skills](https://skillicons.dev/icons?i=react,kotlin,java)](https://skillicons.dev)
-
 
 <br />
 
@@ -30,10 +28,9 @@ You may find some projects on my repos, feel free to contribute or using them. K
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux)](https://skillicons.dev)
 
-
 <br />
  
-####  Databases:  
+#### <img src="https://raw.githubusercontent.com/github/explore/13295c57999765ac9ffa3281942a72ab08b79de2/topics/database/database.png" width="25" height="25"/> Databases:  
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb)](https://skillicons.dev)
 
