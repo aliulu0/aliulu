@@ -1,5 +1,6 @@
 
 ## Hi I'm Ali Ulu!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Front+End+developer+%F0%9F%92%BB;I'm+React+Developer+%F0%9F%8C%90;I'm+React+Native+Developer+%F0%9F%93%B1;I'm+Junior+Full+Stack+Developer+)](https://git.io/typing-svg)
 
 I'm Ali and a self-tought mobil and back-end developer, interested in reading new movies and series, playing football and video game, My dream is to see new places and create new apps.
 I am a Electric Technician (Graduate) student at Kütahya Dumlupınar University.
