@@ -16,17 +16,21 @@ You may find some projects on my repos, feel free to contribute or using them. K
 
 #### 🚀 Programming Languages: 
 
-[![My Skills](https://skillicons.dev/icons?i=js,kotlin,java,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,kotlin,java)](https://skillicons.dev)
 <br />
 #### 📱 Mobile Development:
 
-[![My Skills](https://skillicons.dev/icons?i=react,kotlin,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,kotlin)](https://skillicons.dev)
 <br />
-#### 💻 Front-End Development:  
+#### 🌐 Frontend Development:  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,)](https://skillicons.dev)
 <br />
-#### <img src="https://raw.githubusercontent.com/github/explore/13295c57999765ac9ffa3281942a72ab08b79de2/topics/database/database.png" width="25" height="25"/> Databases:  
+#### 💻 Backend Development:  
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+<br />
+#### <img src="https://raw.githubusercontent.com/github/explore/13295c57999765ac9ffa3281942a72ab08b79de2/topics/database/database.png" width="25" height="25"/>  Databases:  
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb)](https://skillicons.dev)
 <br />
