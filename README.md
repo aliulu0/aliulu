@@ -23,7 +23,7 @@ You can find some projects in my repositories, feel free to contribute or use. K
 <br />
 #### 🌐 Frontend Development:  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,materialui, tailwind)](https://skillicons.dev)
 <br />
 #### 💻 Backend Development:  
 
@@ -38,9 +38,7 @@ You can find some projects in my repositories, feel free to contribute or use. K
 [<img  width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/LinkedIn.svg" align="left" />][twitter]
 [<img  width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Twitter.svg" align="left" />][linkedin]
 
-[twitter]: https://twitter.com/alii_uluu
 [linkedin]: https://www.linkedin.com/in/ali-ulu/
-
 
 <br /><br />
 
