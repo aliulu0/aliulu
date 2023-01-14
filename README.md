@@ -2,10 +2,9 @@
 ## Hi I'm Ali Ulu!
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Front+End+developer+%F0%9F%92%BB;I'm+React+Developer+%F0%9F%8C%90;I'm+React+Native+Developer+%F0%9F%93%B1;I'm+Junior+Full+Stack+Developer+)](https://git.io/typing-svg)
 
-I'm Ali and a self-tought mobil and back-end developer, interested in reading new movies and series, playing football and video game, My dream is to see new places and create new apps.
-I am a Electric Technician (Graduate) student at Kütahya Dumlupınar University.
+I'm Ali, a self-taught frontend and mobile developer. I am improving myself and making applications on these fields day by day. I am interested in watching new movies and series, playing football and discovering new information. My dream is to see new places and create new applications.
 
-You may find some projects on my repos, feel free to contribute or using them. Knowledge is power and sharing knowledge is the best thing for me.
+You can find some projects in my repositories, feel free to contribute or use. Knowledge is power and it is best for me to share knowledge.
 
 
 #### 🚀 Languages: 
@@ -24,7 +23,7 @@ You may find some projects on my repos, feel free to contribute or using them. K
 <br />
 #### 🌐 Frontend Development:  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs)](https://skillicons.dev)
 <br />
 #### 💻 Backend Development:  
 
