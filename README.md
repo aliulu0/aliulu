@@ -23,22 +23,23 @@ You can find some projects in my repositories, feel free to contribute or use. K
 <br />
 #### 🌐 Frontend Development:  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,materialui, tailwind)](https://skillicons.dev)
-<br />
+![My Frontend Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,materialui,tailwind)
+
 #### 💻 Backend Development:  
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
-<br />
+![My Backend Skills](https://skillicons.dev/icons?i=nodejs,express)
+
 #### <img src="https://raw.githubusercontent.com/github/explore/13295c57999765ac9ffa3281942a72ab08b79de2/topics/database/database.png" width="25" height="25"/>  Databases:  
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb)](https://skillicons.dev)
-<br />
+[![My Database Skills](https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb)](https://skillicons.dev)
+
 ## 📧 How to reach me: 
 
-[<img  width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/LinkedIn.svg" align="left" />][twitter]
-[<img  width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Twitter.svg" align="left" />][linkedin]
+[<img  width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/LinkedIn.svg" align="left" />][linkedin]
+[<img  width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Twitter.svg" align="left" />][twitter]
 
 [linkedin]: https://www.linkedin.com/in/ali-ulu/
+[twitter]: https://twitter.com/YOUR_TWITTER_USERNAME
 
 <br /><br />
 
