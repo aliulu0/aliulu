@@ -23,7 +23,7 @@ You can find some projects in my repositories, feel free to contribute or use. K
 <br />
 #### 🌐 Frontend Development:  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,materialui, tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,materialui,tailwind)](https://skillicons.dev)
 <br />
 #### 💻 Backend Development:  
 
