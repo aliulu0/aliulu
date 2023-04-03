@@ -8,8 +8,8 @@ You can find some projects in my repositories, feel free to contribute or use. K
 
 
 #### 🚀 Languages: 
-<img align="left" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-united-kingdom_1f1ec-1f1e7.png" width="50" height="50" /> </p>
-<img align="left" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-turkey_1f1f9-1f1f7.png" width="50" height="50" /> <b>(native)</b>
+<img align="left" src="https://em-content.zobj.net/thumbs/160/twitter/322/flag-united-kingdom_1f1ec-1f1e7.png" width="50" height="50" /> 
+<img align="left" src="https://em-content.zobj.net/thumbs/160/twitter/322/flag-turkey_1f1f9-1f1f7.png" width="50" height="50" /> </p><b>(native)</b>
 
 <br />
 
