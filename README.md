@@ -1,46 +1,23 @@
 
-## Hi I'm Ali Ulu!
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Front+End+developer+%F0%9F%92%BB;I'm+React+Developer+%F0%9F%8C%90;I'm+React+Native+Developer+%F0%9F%93%B1;I'm+Junior+Full+Stack+Developer+)](https://git.io/typing-svg)
+# Hi I'm Ali Ulu!
 
-I'm Ali, a self-taught frontend and mobile developer. I am improving myself and making applications on these fields day by day. I am interested in watching new movies and series, playing football and discovering new information. My dream is to see new places and create new applications.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Frontend+developer+%F0%9F%92%BB;I'm+a+React+Developer+%F0%9F%8C%90;I'm+a+React+Native+Developer+%F0%9F%93%B1;I'm+a+Junior+Full+Stack+Developer+)](https://git.io/typing-svg)
 
-You can find some projects in my repositories, feel free to contribute or use. Knowledge is power and it is best for me to share knowledge.
+I'm Ali, a self-taught frontend and mobile developer. I am improving myself and making applications on these fields day by day. I am interested in watching new movies and series, playing football and discovering new information. My dream is to see new places and create new applications.<br><br>You can find some projects in my repositories, feel free to contribute or use. Knowledge is power and it is best for me to share knowledge.
 
-
-#### 🚀 Languages: 
+## 🚀 Languages: 
 <img align="left" src="https://em-content.zobj.net/thumbs/160/twitter/322/flag-united-kingdom_1f1ec-1f1e7.png" width="50" height="50" /> 
 <img align="left" src="https://em-content.zobj.net/thumbs/160/twitter/322/flag-turkey_1f1f9-1f1f7.png" width="50" height="50" /> </p><b>(native)</b>
+<br/>
+<br/>
 
-<br />
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-ulu) 
 
-#### 🚀 Programming Languages: 
 
-[![My Skills](https://skillicons.dev/icons?i=js,kotlin,java)](https://skillicons.dev)
-<br />
-#### 📱 Mobile Development:
-
-[![My Skills](https://skillicons.dev/icons?i=react,kotlin)](https://skillicons.dev)
-<br />
-#### 🌐 Frontend Development:  
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,materialui,tailwind)](https://skillicons.dev)
-<br />
-#### 💻 Backend Development:  
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
-<br />
-#### <img src="https://raw.githubusercontent.com/github/explore/13295c57999765ac9ffa3281942a72ab08b79de2/topics/database/database.png" width="25" height="25"/>  Databases:  
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb)](https://skillicons.dev)
-<br />
-## 📧 How to reach me: 
-[<img  width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/LinkedIn.svg" align="left" />][linkedin]
-
-[linkedin]:https://www.linkedin.com/in/ali-ulu/
-
-<br /><br />
-
-<details>
-<summary>:bulb:  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliulu0&layout=compact" >
-</details>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aliulu0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aliulu0&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aliulu0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
